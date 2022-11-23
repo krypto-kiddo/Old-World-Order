@@ -4,6 +4,7 @@
 
 // Code written by Krypto-Kiddo
 // OWO token ERC1155 original smartcontract code
+// Verified on Etherscan --> https://goerli.etherscan.io/address/0x850b090026b06e7b8b6c2d775c3a0f5509a90ea3
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
